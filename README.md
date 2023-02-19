@@ -3,3 +3,5 @@
 probando el archivo de readme
 
 Agregando más contenido al _README.md_
+
+Este cmmoit es para oficialziar nuestra version 1.0.0
