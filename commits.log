@@ -1,0 +1,130 @@
+commit 1daa846682f8c0593557a256a1ed4a36c9206dc6
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 18:22:31 2023 -0500
+
+    agregando dos parrafos
+
+commit eda2d876c213d74945d8937872fe4efee81dfc41
+Merge: 672e54c 83e65d1
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 18:19:40 2023 -0500
+
+    resolviendo conflicto entre estaciones del año y fecha de inicio
+
+commit 672e54cc64f4ddef13132e72d74c6bee31daea48
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 14:21:33 2023 -0500
+
+    agregando estaciones del año con fecha de inicio
+
+commit 83e65d11229549dcc723a2fd4039d8aae8b081e2
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 14:21:33 2023 -0500
+
+    Agregando estaciones del año
+
+commit 86753e9d46cb585876deff48445df33e019a53f5
+Merge: baad9a4 eb0cc74
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 12:25:46 2023 -0500
+
+    resolviendo confllicto merge  main/html en el documento index.html
+
+commit eb0cc74e346575ebacc5ac0dd78344dcb0ae8495
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 12:15:55 2023 -0500
+
+    agregando index.js al index.html
+
+commit baad9a4b487e036d0dbbce16ec7a2f2b1758c87d
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 12:12:40 2023 -0500
+
+    agregando style.css al insdex.html
+
+commit f2157816ec851ef34b1f6b8f6b9c0835a6d5b7e8
+Merge: 9f90523 92bd886
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 11:38:58 2023 -0500
+
+    Merge branch 'js'
+
+commit 9f90523c8eaf664eda9eb96786fe72dd4f7d1423
+Merge: 6d1c50c 415af80
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 11:38:35 2023 -0500
+
+    Merge branch 'css'
+
+commit 6d1c50c4cd03442802dcc013692d6ca8d3540974
+Merge: a27895d 384ce84
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Sat Feb 18 11:37:50 2023 -0500
+
+    Merge branch 'html'
+
+commit 92bd88686785b963235fdc51c9722d3a875dd2c0
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 22:41:03 2023 -0500
+
+    creando index.js
+
+commit a27895dc147ee1f9693eff7ac9be908925143467
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 22:39:31 2023 -0500
+
+    cambios
+
+commit 8fa560afb46e7618f2029c8b8a3caf56913128d2
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 22:38:04 2023 -0500
+
+    creando index.js
+
+commit 415af80757a130629440b80ddf5913b18853d6c8
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 22:31:56 2023 -0500
+
+    creando style.css
+
+commit 384ce84a8466f9d9d7eb375198f3b8ddb3602131
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 22:21:42 2023 -0500
+
+    creando  index.html
+
+commit 84685b81175dcd570308492edada31d7ab95b6c5
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 22:05:38 2023 -0500
+
+    ignorando archivo .exe
+
+commit 392def414129943d179c1dc07168b6f61d7b335e
+Author: Isaac192063 <115334877+Isaac192063@users.noreply.github.com>
+Date:   Fri Feb 17 19:40:44 2023 -0500
+
+    creando lisencia de repositorio
+
+commit 19516f68e0b397c31b2128643f7cad41f6446d37
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 19:32:34 2023 -0500
+
+    Agregando más contenido al readmi
+
+commit 2be816316ab18c73087bd6a7e3b2e332dd994dea
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 19:27:53 2023 -0500
+
+    Actualizando contenido
+
+commit 0cb8167760d874e9f6075219ed4447e464bfd2f2
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 19:08:56 2023 -0500
+
+    Agregando contendio inicial al README
+
+commit 8a87d03fb9813837d10940a1ce553674b36a4d67
+Author: isaac192063 <ichinchillac@ufpso.edu.co>
+Date:   Fri Feb 17 18:21:20 2023 -0500
+
+    primer commit😀
